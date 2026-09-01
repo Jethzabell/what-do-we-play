@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script>
+    // SPA redirect for GitHub Pages
+    // Converts the path into a query param so index.html can restore it
+    var seg = location.pathname.replace('/what-do-we-play/', '/').split('/').filter(Boolean);
+    var url = '/what-do-we-play/?/' + seg.join('/') + location.search + location.hash;
+    location.replace(url);
+  </script>
+</head>
+<body></body>
+</html>

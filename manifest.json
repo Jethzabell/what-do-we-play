@@ -1,0 +1,31 @@
+{
+  "name": "What Do We Play?",
+  "short_name": "WDWP?",
+  "description": "Board game picker for game night",
+  "start_url": "/what-do-we-play/",
+  "scope": "/what-do-we-play/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#110E16",
+  "theme_color": "#110E16",
+  "icons": [
+    {
+      "src": "icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

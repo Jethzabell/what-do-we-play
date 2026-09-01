@@ -1,0 +1,1886 @@
+[
+  {
+    "id": 75,
+    "name": "7 Wonders Duel",
+    "description": "A two-player civilization-building card game. Develop your city, build wonders, and defeat your opponent through science, military, or points.",
+    "image_url": "https://boardgameshop.nl/wp-content/uploads/2021/02/7-Wonders-Duel.jpg",
+    "min_players": 2,
+    "max_players": 2,
+    "min_playtime": 30,
+    "max_playtime": 30,
+    "complexity": 2.2,
+    "categories": [
+      "card",
+      "strategy"
+    ],
+    "moods": [
+      "focused",
+      "competitive",
+      "intense"
+    ],
+    "bgg_id": 173346,
+    "bgg_rating": 8.1,
+    "favorite": false,
+    "instructions_en": "https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf",
+    "instructions_es": "https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/es/7du-rules-sp-1599056359ltfs5.pdf",
+    "video_en": "https://www.youtube.com/watch?v=SxQkMRUvCJ8",
+    "video_es": "https://www.youtube.com/watch?v=SxQkMRUvCJ8",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 90,
+    "name": "Anarchy Pancakes",
+    "description": "From the creators of Exploding Kittens, a chaotic real-time card game where everyone plays at once trying to stack matching pancake cards.",
+    "image_url": "https://m.media-amazon.com/images/I/71nhECsp4kL._AC_SL1500_.jpg",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 10,
+    "max_playtime": 15,
+    "complexity": 1,
+    "categories": [
+      "card",
+      "party"
+    ],
+    "moods": [
+      "social",
+      "silly",
+      "competitive"
+    ],
+    "bgg_id": 371250,
+    "bgg_rating": 5.8,
+    "favorite": false,
+    "instructions_en": "https://content.cmpl.org/bg/AnarchyPancakes.pdf",
+    "video_en": "https://www.youtube.com/watch?v=pgaqoM00bt8",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 5,
+    "name": "Azul",
+    "description": "Draft beautiful Moorish tiles to decorate your palace wall. Simple to learn, deeply strategic pattern-building game.",
+    "image_url": "https://m.media-amazon.com/images/I/91A0nIsV57S._AC_SL500_.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 30,
+    "max_playtime": 45,
+    "complexity": 1.8,
+    "categories": [
+      "abstract",
+      "strategy",
+      "family"
+    ],
+    "moods": [
+      "chill",
+      "strategic"
+    ],
+    "bgg_id": 230802,
+    "bgg_rating": 7.8,
+    "favorite": false,
+    "instructions_en": "https://www.asmodee.co.uk/blogs/news/how-to-play-azul",
+    "instructions_es": "https://asisejuega.com/como-jugar-azul/",
+    "video_en": "https://www.youtube.com/watch?v=Ht2754WWq6c",
+    "video_es": "https://www.youtube.com/watch?v=NP0bc1Jubyo",
+    "created_at": "2026-08-30T01:52:28Z"
+  },
+  {
+    "id": 100,
+    "name": "Beat the Heat",
+    "description": "Fiery card game based on the classic Take 5. Strategically add number cards to rows — but be careful not to play the 6th card or you collect all the points! Score low to win. Simple rules, fast rounds, great for groups.",
+    "image_url": "https://www.hasbro.com/common/productimages/en_US/5B4846C100E34D02BA8AB90AA48C071E/0DEA5E4F79C0409B850BEDCC83ADDC22.jpg",
+    "min_players": 2,
+    "max_players": 10,
+    "min_playtime": 20,
+    "max_playtime": 20,
+    "complexity": 1.3,
+    "categories": [
+      "card-game",
+      "family",
+      "party",
+      "strategy"
+    ],
+    "moods": [
+      "party",
+      "social",
+      "competitive"
+    ],
+    "bgg_id": 432,
+    "bgg_rating": 7,
+    "favorite": false,
+    "created_at": "2026-08-30T17:12:38Z"
+  },
+  {
+    "id": 36,
+    "name": "Camel Up",
+    "description": "An exciting camel-racing betting game. Place bets on which camel will win or lose the race as they stack on top of each other in unpredictable ways.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00M4KGF4O.01.LZZZZZZZ.jpg",
+    "min_players": 3,
+    "max_players": 8,
+    "min_playtime": 30,
+    "max_playtime": 45,
+    "complexity": 1.5,
+    "categories": [
+      "family",
+      "strategy"
+    ],
+    "moods": [
+      "party",
+      "social",
+      "competitive"
+    ],
+    "bgg_id": 153938,
+    "bgg_rating": 7,
+    "favorite": false,
+    "instructions_en": "https://www.lookout-spiele.de/upload/en_camelup.html_CamelUp_PZE30070_Rules_EN_WEB_240305.pdf",
+    "video_en": "https://www.youtube.com/watch?v=5oX4Q7AcpxQ",
+    "created_at": "2026-08-30T03:55:23Z"
+  },
+  {
+    "id": 67,
+    "name": "Can't Catch Harry",
+    "description": "An odd-one-out card game where players try to identify and catch the odd card before others.",
+    "image_url": "https://cardmerchant.co.nz/cdn/shop/products/s-l300_8_a24737b9-7f93-440e-ae36-a2bd5c1a2b9c_1024x1024.jpg?v=1648774804",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 15,
+    "max_playtime": 30,
+    "complexity": 1.2,
+    "categories": [
+      "card",
+      "family"
+    ],
+    "moods": [
+      "social",
+      "chill",
+      "silly"
+    ],
+    "favorite": false,
+    "instructions_en": "https://www.scribd.com/document/634470639/CantCatchHarry-Rules",
+    "instructions_es": "https://www.scribd.com/document/634470639/CantCatchHarry-Rules",
+    "video_en": "https://www.youtube.com/watch?v=2J7DuG3e3Fk",
+    "video_es": "https://www.youtube.com/watch?v=2J7DuG3e3Fk",
+    "created_at": "2026-08-30T16:22:02Z"
+  },
+  {
+    "id": 11,
+    "name": "Carcassonne",
+    "description": "Draw and place tiles to build a medieval landscape. Strategically deploy your meeples on cities, roads, fields and monasteries to score points.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00NX627HW.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 5,
+    "min_playtime": 30,
+    "max_playtime": 45,
+    "complexity": 1.9,
+    "categories": [
+      "strategy",
+      "family",
+      "tile-placement"
+    ],
+    "moods": [
+      "chill",
+      "strategic"
+    ],
+    "bgg_id": 822,
+    "bgg_rating": 7.4,
+    "favorite": false,
+    "instructions_en": "https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/carcassonne_v3_rulesheet_en-1.pdf",
+    "instructions_es": "https://juegatelamesa.com/carcassonne-guia-reglas-tacticas/",
+    "created_at": "2026-08-30T01:52:28Z"
+  },
+  {
+    "id": 94,
+    "name": "Card Scramble: Elf Edition",
+    "description": "Based on the movie Elf, a fast card-matching game where players race to match cards from the holiday comedy.",
+    "image_url": "https://m.media-amazon.com/images/I/611u9TZxeVL._AC_SL1012_.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 10,
+    "max_playtime": 20,
+    "complexity": 1,
+    "categories": [
+      "card",
+      "family",
+      "party"
+    ],
+    "moods": [
+      "social",
+      "silly",
+      "chill"
+    ],
+    "favorite": false,
+    "instructions_en": "https://christmasloft.com/elf-card-scramble-board-game-movie-themed-family-fun/",
+    "created_at": "2026-08-30T16:22:05Z"
+  },
+  {
+    "id": 61,
+    "name": "Castle Panic",
+    "description": "A cooperative tower defense game where players work together to defend a castle from monsters attacking from the forest.",
+    "image_url": "https://cdn11.bigcommerce.com/s-b4ioc4fed9/images/stencil/500x659/products/449532/3065980/x3rCIpBjVMyXPASKQTrqwJiIj__77226.1766199503.jpg?c=1",
+    "min_players": 1,
+    "max_players": 6,
+    "min_playtime": 45,
+    "max_playtime": 60,
+    "complexity": 1.8,
+    "categories": [
+      "cooperative",
+      "family",
+      "strategy"
+    ],
+    "moods": [
+      "cooperative",
+      "chill",
+      "social"
+    ],
+    "bgg_id": 43443,
+    "bgg_rating": 6.6,
+    "favorite": false,
+    "instructions_en": "https://fgbradleys.com/wp-content/uploads/Castle-Panic-Second-Edition-Rulebook.pdf",
+    "instructions_es": "https://c.tabletopia.com/games/castle-panic/rules/castle-panic-spanish-rules/es",
+    "video_en": "https://www.youtube.com/watch?v=MpuTGWFkBYs",
+    "created_at": "2026-08-30T16:22:02Z"
+  },
+  {
+    "id": 1,
+    "name": "Catan",
+    "description": "Trade, build and settle the island of Catan. Collect resources, negotiate trades, and race to 10 victory points in this classic strategy game.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00U26V4VQ.01.LZZZZZZZ.jpg",
+    "min_players": 3,
+    "max_players": 4,
+    "min_playtime": 60,
+    "max_playtime": 90,
+    "complexity": 2.3,
+    "categories": [
+      "strategy",
+      "family"
+    ],
+    "moods": [
+      "strategic",
+      "competitive",
+      "social"
+    ],
+    "bgg_id": 13,
+    "bgg_rating": 7.1,
+    "favorite": false,
+    "instructions_en": "https://www.catan.com/sites/default/files/2025-03/CN3081%20CATAN%E2%80%93The%20Game%20Rulebook%20secure%20%281%29.pdf",
+    "instructions_es": "https://juegatelamesa.com/catan-reglas-estrategias-expansiones/",
+    "video_en": "https://www.youtube.com/watch?v=oiQ6SgBzfqY",
+    "video_es": "https://www.youtube.com/watch?v=3t0BVFjhhCA",
+    "created_at": "2026-08-30T01:52:28Z"
+  },
+  {
+    "id": 76,
+    "name": "Clue",
+    "description": "The classic murder mystery detective game. Who did it, with what weapon, in which room?",
+    "image_url": "https://m.media-amazon.com/images/I/71oSGWDuUgL._AC_SL1500_.jpg",
+    "min_players": 3,
+    "max_players": 6,
+    "min_playtime": 30,
+    "max_playtime": 60,
+    "complexity": 1.5,
+    "categories": [
+      "deduction",
+      "family",
+      "classic"
+    ],
+    "moods": [
+      "focused",
+      "social",
+      "competitive"
+    ],
+    "bgg_id": 1294,
+    "bgg_rating": 5.5,
+    "favorite": false,
+    "instructions_en": "https://www.buffalolib.org/sites/default/files/gaming-unplugged/inst/Clue%20Instructions.pdf",
+    "instructions_es": "https://es.wikihow.com/jugar-Cluedo/Clue",
+    "video_en": "https://www.youtube.com/watch?v=Q7Yc-WqwnSg",
+    "video_es": "https://www.youtube.com/watch?v=Q7Yc-WqwnSg",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 81,
+    "name": "Code Master",
+    "description": "A programming logic game by ThinkFun where players guide an avatar through a map using programming concepts.",
+    "image_url": "https://toyhermit.com/cdn/shop/files/0800215-thinkfun-code-master-programming-logic-game-toy-hermit-464116.jpg?v=1735286167&width=1946",
+    "min_players": 1,
+    "max_players": 1,
+    "min_playtime": 10,
+    "max_playtime": 30,
+    "complexity": 2,
+    "categories": [
+      "puzzle",
+      "solo",
+      "educational"
+    ],
+    "moods": [
+      "focused",
+      "chill"
+    ],
+    "bgg_id": 181766,
+    "bgg_rating": 6.8,
+    "favorite": false,
+    "instructions_en": "https://legacy.thinkfun.com/wp-content/uploads/2017/07/Code3-1903-Instructions.pdf",
+    "instructions_es": "https://www.thinkfun.es/products/code-master/",
+    "video_en": "https://www.youtube.com/watch?v=zXmyowiJvXM",
+    "video_es": "",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 2,
+    "name": "Codenames",
+    "description": "Two teams compete to identify their agents using one-word clues from their spymaster. A brilliant word-association party game.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B014Q1XX9S.01.LZZZZZZZ.jpg",
+    "min_players": 4,
+    "max_players": 8,
+    "min_playtime": 15,
+    "max_playtime": 15,
+    "complexity": 1.3,
+    "categories": [
+      "party",
+      "word-game"
+    ],
+    "moods": [
+      "party",
+      "social",
+      "creative"
+    ],
+    "bgg_id": 178900,
+    "bgg_rating": 7.5,
+    "favorite": false,
+    "instructions_en": "https://filemanager.czechgames.com/storage/files/codenames/rules/CN%20rulebook%20EN%2030.pdf",
+    "instructions_es": "https://es.wikihow.com/Jugar-a-Codenames",
+    "video_en": "https://www.youtube.com/watch?v=zQVHkl8oQEU",
+    "created_at": "2026-08-30T01:52:28Z"
+  },
+  {
+    "id": 28,
+    "name": "Coup",
+    "description": "A fast bluffing card game of political intrigue. Claim to be powerful characters, bluff your opponents, and be the last player standing with influence.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00GDI4HX4.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 10,
+    "max_playtime": 15,
+    "complexity": 1.4,
+    "categories": [
+      "party",
+      "card-game",
+      "bluffing"
+    ],
+    "moods": [
+      "party",
+      "competitive",
+      "social"
+    ],
+    "bgg_id": 131357,
+    "bgg_rating": 7,
+    "favorite": false,
+    "instructions_en": "https://www.ultraboardgames.com/coup/game-rules.php",
+    "instructions_es": "https://es.doc.boardgamearena.com/Gamehelpcoupcitystate",
+    "video_en": "https://www.youtube.com/watch?v=lPlBDZnxHQA",
+    "created_at": "2026-08-30T03:53:59Z"
+  },
+  {
+    "id": 104,
+    "name": "Coyote",
+    "description": "An addictive card game of hilarity, high-fives, and havoc by Tim Ferriss and Exploding Kittens. Lay out action cards, perform the sequence — add coyote cards to sabotage others. Mess up and you lose a life. Last player standing wins!",
+    "image_url": "https://www.explodingkittens.com/cdn/shop/files/01COY-COREAngled.png?v=1740700112",
+    "min_players": 3,
+    "max_players": 8,
+    "min_playtime": 10,
+    "max_playtime": 10,
+    "complexity": 1,
+    "categories": [
+      "card-game",
+      "party"
+    ],
+    "moods": [
+      "party",
+      "social",
+      "intense"
+    ],
+    "bgg_id": 443688,
+    "bgg_rating": 6.5,
+    "favorite": false,
+    "created_at": "2026-08-30T23:29:35Z"
+  },
+  {
+    "id": 16,
+    "name": "Disney Stitch Level 8",
+    "description": "A Ravensburger card game where players race to complete eight increasingly difficult card combinations. Disney Stitch themed edition.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0DDL4KY6J.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 30,
+    "max_playtime": 45,
+    "complexity": 1.5,
+    "categories": [
+      "card-game",
+      "set-collection",
+      "family"
+    ],
+    "moods": [
+      "chill",
+      "social",
+      "party"
+    ],
+    "favorite": false,
+    "instructions_en": "https://www.ravensburger.us/en-US/products/games/family-games/disney-stitch-level-8-24700",
+    "video_en": "https://www.youtube.com/watch?v=unJqCkGw-_Y",
+    "created_at": "2026-08-30T03:43:19Z"
+  },
+  {
+    "id": 38,
+    "name": "Disney Villainous",
+    "description": "Play as iconic Disney villains, each with a unique storyline and win condition. Move through your domain, use abilities and fate cards to thwart opponents.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07DLGD9K6.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 45,
+    "max_playtime": 90,
+    "complexity": 2.2,
+    "categories": [
+      "strategy",
+      "thematic"
+    ],
+    "moods": [
+      "strategic",
+      "competitive",
+      "social"
+    ],
+    "bgg_id": 256382,
+    "bgg_rating": 7,
+    "favorite": false,
+    "instructions_en": "https://www.ultraboardgames.com/villainous/game-rules.php",
+    "video_en": "https://www.youtube.com/watch?v=8wdvXKRfoPI",
+    "created_at": "2026-08-30T14:35:32Z"
+  },
+  {
+    "id": 89,
+    "name": "Dump the Skunk!",
+    "description": "A push-your-luck dice game where players roll to score points but risk losing everything if they dump the skunk.",
+    "image_url": "https://m.media-amazon.com/images/I/81tVHhmJ8SL._AC_SL1500_.jpg",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 15,
+    "max_playtime": 25,
+    "complexity": 1,
+    "categories": [
+      "dice",
+      "family",
+      "party"
+    ],
+    "moods": [
+      "social",
+      "silly",
+      "chill"
+    ],
+    "favorite": false,
+    "instructions_en": "https://instructions.hasbro.com/en-us/instruction/dump-the-skunk-family-card-game",
+    "video_en": "https://www.youtube.com/watch?v=yN6r0fAxOy0",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 13,
+    "name": "Exploding Kittens",
+    "description": "A highly strategic kitty-powered version of Russian Roulette. Draw cards until someone draws an Exploding Kitten and is out of the game.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B010TQY7A8.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 5,
+    "min_playtime": 15,
+    "max_playtime": 15,
+    "complexity": 1,
+    "categories": [
+      "party",
+      "card-game"
+    ],
+    "moods": [
+      "party",
+      "social"
+    ],
+    "bgg_id": 172225,
+    "bgg_rating": 6.2,
+    "favorite": false,
+    "instructions_en": "https://www.explodingkittens.com/pages/how-to-play-exploding-kittens-board-game",
+    "instructions_es": "https://cdn.svc.asmodee.net/production-asmodeees/uploads/2024/06/EKIEK02NES_Instructions_ES_v2.pdf",
+    "video_en": "https://www.youtube.com/watch?v=rcVpTb-iPoQ",
+    "created_at": "2026-08-30T01:52:28Z"
+  },
+  {
+    "id": 92,
+    "name": "Forbidden Desert",
+    "description": "A cooperative game by Gamewright. Work together to excavate a buried ancient flying machine before the desert storm buries you.",
+    "image_url": "https://m.media-amazon.com/images/I/71VmJa8eUPL._AC_SL1500_.jpg",
+    "min_players": 2,
+    "max_players": 5,
+    "min_playtime": 45,
+    "max_playtime": 45,
+    "complexity": 2,
+    "categories": [
+      "cooperative",
+      "strategy"
+    ],
+    "moods": [
+      "cooperative",
+      "focused",
+      "intense"
+    ],
+    "bgg_id": 136063,
+    "bgg_rating": 7.1,
+    "favorite": false,
+    "instructions_en": "https://games-for-you.oozmi-cdn.com/products/45b19268-ec38-4cdf-a457-ee3fbe523baa/pdfs/forbidden_desert_rulebook_en.pdf",
+    "instructions_es": "https://devir.es/aprende-a-jugar-a-desierto-prohibido",
+    "video_en": "https://www.youtube.com/watch?v=DpJ7WUW_dNA",
+    "video_es": "https://www.youtube.com/watch?v=nq3DEdpo1d0",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 31,
+    "name": "Gathering of the Wicked",
+    "description": "Disney Villains social deduction game. A dark twist on Werewolf where players are Disney Villains trying to identify the heroes hiding among them.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B09C92MRWC.01.LZZZZZZZ.jpg",
+    "min_players": 8,
+    "max_players": 18,
+    "min_playtime": 30,
+    "max_playtime": 30,
+    "complexity": 1.3,
+    "categories": [
+      "party",
+      "social-deduction",
+      "thematic"
+    ],
+    "moods": [
+      "party",
+      "social",
+      "competitive"
+    ],
+    "bgg_id": 385438,
+    "bgg_rating": 6.5,
+    "favorite": false,
+    "instructions_en": "https://nightsaroundatable.com/2022/05/13/how-to-play-disney-villains-gathering-of-the-wicked/",
+    "created_at": "2026-08-30T03:54:27Z"
+  },
+  {
+    "id": 66,
+    "name": "Giant UNO",
+    "description": "The classic UNO card game with oversized cards for extra fun. Match colors and numbers, use action cards to change the game.",
+    "image_url": "https://cdnimages.opentip.com/full/SSW/SSW-W15239.jpg",
+    "min_players": 2,
+    "max_players": 10,
+    "min_playtime": 15,
+    "max_playtime": 30,
+    "complexity": 1.1,
+    "categories": [
+      "card",
+      "family",
+      "party"
+    ],
+    "moods": [
+      "social",
+      "silly",
+      "chill"
+    ],
+    "bgg_id": 2223,
+    "bgg_rating": 5.5,
+    "favorite": false,
+    "instructions_en": "https://service.mattel.com/instruction_sheets/M1006.pdf",
+    "instructions_es": "https://unorules.net/es/",
+    "video_en": "https://www.youtube.com/watch?v=OS8qyMVn9cw",
+    "video_es": "https://www.youtube.com/watch?v=DQzOvL87vss",
+    "created_at": "2026-08-30T16:22:02Z"
+  },
+  {
+    "id": 33,
+    "name": "GiiKER Super Slide",
+    "description": "Electronic sliding puzzle with 500+ challenges. A brain teaser STEM toy perfect for solo play and travel. Slide the tiles to match the pattern shown on screen.",
+    "image_url": "https://m.media-amazon.com/images/I/71xQ06a-1ZL._AC_SL500_.jpg",
+    "min_players": 1,
+    "max_players": 1,
+    "min_playtime": 5,
+    "max_playtime": 30,
+    "complexity": 2,
+    "categories": [
+      "abstract",
+      "family"
+    ],
+    "moods": [
+      "chill",
+      "strategic"
+    ],
+    "favorite": false,
+    "instructions_en": "https://officialgamerules.org/game-rules/giiker-super-slide-puzzle-rules/",
+    "video_en": "https://www.youtube.com/watch?v=A3D3-xCIxbI",
+    "created_at": "2026-08-30T03:55:23Z"
+  },
+  {
+    "id": 97,
+    "name": "Go Mickey",
+    "description": "A Disney Mickey and Friends card game from Walt Disney World, a fun family card game with Disney characters.",
+    "image_url": "https://shophobbymall.com/cdn/shop/files/72A39D73-B59D-445C-BE65-85803A2A189A_1200x1200.jpg",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 10,
+    "max_playtime": 20,
+    "complexity": 1,
+    "categories": [
+      "card",
+      "family"
+    ],
+    "moods": [
+      "social",
+      "chill",
+      "silly"
+    ],
+    "favorite": false,
+    "instructions_en": "http://cdnvideo.dolimg.com/cdn_assets/c1fbec029013a314c45bdbd71d65793637930afd.pdf",
+    "created_at": "2026-08-30T16:22:05Z"
+  },
+  {
+    "id": 82,
+    "name": "Gravity Maze",
+    "description": "A falling marble logic game by ThinkFun. Build a path of towers to guide the marble to the target.",
+    "image_url": "https://static02.galaxus.com/productimages/3/9/3/6/2/5/7/6/2/8/8/2/1/0/2/7/9/8/5/daa717ca-c438-403e-a0d2-77c21f627add.jpg_720.jpeg",
+    "min_players": 1,
+    "max_players": 1,
+    "min_playtime": 10,
+    "max_playtime": 30,
+    "complexity": 2,
+    "categories": [
+      "puzzle",
+      "solo"
+    ],
+    "moods": [
+      "focused",
+      "chill"
+    ],
+    "bgg_id": 161816,
+    "bgg_rating": 7.1,
+    "favorite": false,
+    "instructions_en": "https://www.think-fun.nl/wp-content/uploads/2019/01/Gravi-76339-9-IN01-International.pdf",
+    "instructions_es": "https://lajuganera.cat/wp-content/uploads/2020/11/instruccions-gravity-maze.pdf",
+    "video_en": "https://www.youtube.com/watch?v=-LMFVBH7yTY",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 99,
+    "name": "Happy Mochi",
+    "description": "Fast-paced card game where you discard cards in pairs without rearranging your hand. Match numbers and colors, or shout Happy Mochi with matching pairs to break the rules! Cute mochi characters and quick gameplay.",
+    "image_url": "https://rulesofplay.co.uk/cdn/shop/files/26864_67acdfb9895967.17614667_pic8680721_large_bfc87fe1-6c5b-402d-a59e-d4b22032547a_600x600.jpg?v=1739445801",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 20,
+    "max_playtime": 20,
+    "complexity": 1.2,
+    "categories": [
+      "card-game",
+      "family",
+      "party"
+    ],
+    "moods": [
+      "chill",
+      "party",
+      "social"
+    ],
+    "bgg_id": 438481,
+    "bgg_rating": 6.6,
+    "favorite": false,
+    "created_at": "2026-08-30T17:12:38Z"
+  },
+  {
+    "id": 106,
+    "name": "Happy Salmon",
+    "description": "A 90-second game you will play for hours! No turns — everyone frantically shouts their card actions to find matches. High five, pound it, switcheroo, or do the happy salmon. First to discard all cards wins!",
+    "image_url": "https://www.explodingkittens.com/cdn/shop/products/HS-CORE_PDPContent_DTC_1400x1400FOB.png?v=1678406240",
+    "min_players": 3,
+    "max_players": 6,
+    "min_playtime": 2,
+    "max_playtime": 2,
+    "complexity": 1.1,
+    "categories": [
+      "card-game",
+      "party"
+    ],
+    "moods": [
+      "party",
+      "social",
+      "intense"
+    ],
+    "bgg_id": 194626,
+    "bgg_rating": 6.6,
+    "favorite": false,
+    "created_at": "2026-08-30T23:29:36Z"
+  },
+  {
+    "id": 27,
+    "name": "Here to Slay",
+    "description": "An RPG-themed competitive card game. Assemble a party of heroes to slay monsters, or sabotage your opponents with challenging rolls and action cards.",
+    "image_url": "https://m.media-amazon.com/images/I/51TNj6A53SL._AC_SL500_.jpg",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 30,
+    "max_playtime": 60,
+    "complexity": 1.8,
+    "categories": [
+      "card-game",
+      "strategy"
+    ],
+    "moods": [
+      "competitive",
+      "social",
+      "party"
+    ],
+    "bgg_id": 299295,
+    "bgg_rating": 6.6,
+    "favorite": false,
+    "instructions_en": "https://www.buffalolib.org/sites/default/files/gaming-unplugged/inst/Here%20to%20Slay%20Instructions.pdf",
+    "instructions_es": "https://es.scribd.com/document/579506460/HTS-Reglas-KS-Spanish",
+    "video_en": "https://www.youtube.com/watch?v=gsPZoEJyYMM",
+    "created_at": "2026-08-30T03:53:59Z"
+  },
+  {
+    "id": 101,
+    "name": "Hummingbirds",
+    "description": "Guide your hummingbirds to claim flowers hiding sand timers, then reveal them to check for nectar. Wait longer for sweeter rewards, but check too soon and lose your lowest token. A beautiful push-your-luck memory game.",
+    "image_url": "https://www.spelhuis.be//Files/7/112000/112353/ProductPhotos/1920x1080/2384286629.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 10,
+    "max_playtime": 15,
+    "complexity": 1.5,
+    "categories": [
+      "family",
+      "abstract"
+    ],
+    "moods": [
+      "chill",
+      "social"
+    ],
+    "bgg_id": 423404,
+    "bgg_rating": 7.3,
+    "favorite": false,
+    "created_at": "2026-08-30T23:29:35Z"
+  },
+  {
+    "id": 71,
+    "name": "IQ XOXO",
+    "description": "A solo logic puzzle game by SmartGames. Fill the grid with colorful X and O pentomino pieces.",
+    "image_url": "https://gamesbysmart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/q/iq_xoxo_sg444.jpg",
+    "min_players": 1,
+    "max_players": 1,
+    "min_playtime": 5,
+    "max_playtime": 30,
+    "complexity": 2,
+    "categories": [
+      "puzzle",
+      "solo"
+    ],
+    "moods": [
+      "focused",
+      "chill"
+    ],
+    "favorite": false,
+    "instructions_en": "https://www.smartgamesusa.com/one-player-games/iq-xoxo",
+    "instructions_es": "https://www.smartgamesusa.com/one-player-games/iq-xoxo",
+    "video_en": "",
+    "video_es": "",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 63,
+    "name": "Jumbling Tower",
+    "description": "A classic stacking game where players take turns removing wooden blocks from a tower and placing them on top without toppling it.",
+    "image_url": "https://m.media-amazon.com/images/I/7171l0vY1zL._AC_SL1500_.jpg",
+    "min_players": 1,
+    "max_players": 4,
+    "min_playtime": 10,
+    "max_playtime": 20,
+    "complexity": 1,
+    "categories": [
+      "dexterity",
+      "family"
+    ],
+    "moods": [
+      "chill",
+      "social",
+      "silly"
+    ],
+    "favorite": false,
+    "instructions_en": "https://geekyhobbies.com/jenga-rules-and-instructions/",
+    "video_en": "https://www.youtube.com/watch?v=pbE6SRQ7PoA",
+    "created_at": "2026-08-30T16:22:02Z"
+  },
+  {
+    "id": 87,
+    "name": "Junior Detective Mysteries",
+    "description": "A mystery-solving game by Buffalo Games where players work as junior detectives to solve cases.",
+    "image_url": "https://m.media-amazon.com/images/I/81EWXzZ3XwL._AC_SL1500_.jpg",
+    "min_players": 1,
+    "max_players": 6,
+    "min_playtime": 30,
+    "max_playtime": 45,
+    "complexity": 1.5,
+    "categories": [
+      "deduction",
+      "cooperative",
+      "family"
+    ],
+    "moods": [
+      "cooperative",
+      "focused",
+      "social"
+    ],
+    "favorite": false,
+    "instructions_en": "https://buffalogames.com/content/Game_Instructions/441-JuniorDetective_Instructions_web.pdf",
+    "video_en": "https://www.youtube.com/watch?v=sUMEefd03gE",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 74,
+    "name": "Lost Cities",
+    "description": "A two-player card game of archaeological exploration. Launch expeditions and play cards in ascending order for maximum points.",
+    "image_url": "https://www.thamesandkosmos.co.uk/wp-content/uploads/2020/04/691821_LC_Card_Game_3DBox.jpg",
+    "min_players": 2,
+    "max_players": 2,
+    "min_playtime": 20,
+    "max_playtime": 40,
+    "complexity": 1.5,
+    "categories": [
+      "card",
+      "strategy"
+    ],
+    "moods": [
+      "focused",
+      "competitive"
+    ],
+    "bgg_id": 50,
+    "bgg_rating": 7.1,
+    "favorite": false,
+    "instructions_en": "https://officialgamerules.org/game-rules/lost-cities/",
+    "instructions_es": "https://es.doc.boardgamearena.com/Gamehelplostcities",
+    "video_en": "https://www.youtube.com/watch?v=axzaWfSozDE",
+    "video_es": "https://www.youtube.com/watch?v=axzaWfSozDE",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 105,
+    "name": "Mantis",
+    "description": "A colorfully cutthroat game of rainbows and revenge. Only two rules: steal or score your way to victory. Collect matching cards to build your score pile — first to 10 cards wins. Simple as UNO, deep as Gin Rummy.",
+    "image_url": "https://www.explodingkittens.com/cdn/shop/files/01MNTS-COREAngled.png?v=1763079475",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 10,
+    "max_playtime": 10,
+    "complexity": 1,
+    "categories": [
+      "card-game",
+      "family"
+    ],
+    "moods": [
+      "competitive",
+      "social"
+    ],
+    "bgg_id": 358690,
+    "bgg_rating": 6.6,
+    "favorite": false,
+    "created_at": "2026-08-30T23:29:36Z"
+  },
+  {
+    "id": 39,
+    "name": "Mexican Train Dominoes",
+    "description": "Classic dominoes variant where players build personal trains and a shared Mexican train. Match numbered tiles to extend chains while trying to empty your hand first. Comes in a premium aluminum carry case.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B000EULZDM.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 8,
+    "min_playtime": 20,
+    "max_playtime": 60,
+    "complexity": 1.3,
+    "categories": [
+      "family",
+      "classic"
+    ],
+    "moods": [
+      "chill",
+      "social",
+      "party"
+    ],
+    "bgg_id": 2390,
+    "bgg_rating": 6.2,
+    "favorite": false,
+    "instructions_en": "https://www.ultraboardgames.com/mexican-train/game-rules.php",
+    "instructions_es": "https://mexicantrain.com/blog/es/Gu%C3%ADa-y-reglas-para-principiantes-del-Domin%C3%B3-Tren-Mexicano.html",
+    "video_en": "https://www.youtube.com/watch?v=4o6auGUg6I0",
+    "created_at": "2026-08-30T14:35:43Z"
+  },
+  {
+    "id": 70,
+    "name": "Monopoly Deal",
+    "description": "A fast-paced card game version of Monopoly. Collect property sets, charge rent, and steal from opponents.",
+    "image_url": "https://m.media-amazon.com/images/I/71Oo+PGwfnL._AC_SL1500_.jpg",
+    "min_players": 2,
+    "max_players": 5,
+    "min_playtime": 10,
+    "max_playtime": 20,
+    "complexity": 1.3,
+    "categories": [
+      "card",
+      "family"
+    ],
+    "moods": [
+      "competitive",
+      "social",
+      "chill"
+    ],
+    "bgg_id": 40398,
+    "bgg_rating": 6.6,
+    "favorite": false,
+    "instructions_en": "https://instructions.hasbro.com/en-us/instruction/monopoly-deal-card-game-instructions",
+    "instructions_es": "https://instructions.hasbro.com/es-mx/instruction/monopoly-deal-card-game",
+    "video_en": "https://www.youtube.com/watch?v=nvv3NwQx-Gs",
+    "video_es": "https://www.youtube.com/watch?v=L9mG2jwqNE0",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 95,
+    "name": "Naipes",
+    "description": "Traditional Spanish playing cards (baraja española). Used for classic games like Briscola, Tute, and Mus.",
+    "image_url": "https://m.media-amazon.com/images/I/91M7DtVXKFL._AC_SL1500_.jpg",
+    "min_players": 2,
+    "max_players": 8,
+    "min_playtime": 15,
+    "max_playtime": 45,
+    "complexity": 1.5,
+    "categories": [
+      "card",
+      "classic"
+    ],
+    "moods": [
+      "social",
+      "chill",
+      "competitive"
+    ],
+    "favorite": false,
+    "instructions_en": "https://gamelearn.eu/card-games/tute",
+    "instructions_es": "https://gamelearn.eu/es/card-games/brisca",
+    "video_es": "https://www.youtube.com/watch?v=GjyYHUvK0LI",
+    "created_at": "2026-08-30T16:22:05Z"
+  },
+  {
+    "id": 37,
+    "name": "Onitama",
+    "description": "A beautifully simple two-player abstract strategy game. Each player has five pawns and two movement cards, trying to capture the master or reach the temple arch.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B01C05HZB4.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 2,
+    "min_playtime": 15,
+    "max_playtime": 20,
+    "complexity": 1.7,
+    "categories": [
+      "abstract",
+      "strategy"
+    ],
+    "moods": [
+      "strategic",
+      "competitive"
+    ],
+    "bgg_id": 160477,
+    "bgg_rating": 7.4,
+    "favorite": false,
+    "instructions_en": "https://www.arcanewonders.com/wp-content/uploads/2021/05/Onitama-Rulebook.pdf",
+    "instructions_es": "https://overrules.mobi/es/onitama/rules/",
+    "video_en": "https://www.youtube.com/watch?v=IFRewjcngwU",
+    "created_at": "2026-08-30T14:35:32Z"
+  },
+  {
+    "id": 6,
+    "name": "Pandemic",
+    "description": "Work together as a team of specialists to cure four deadly diseases threatening the world. A tense cooperative game of strategy and teamwork.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00A2HD40E.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 45,
+    "max_playtime": 45,
+    "complexity": 2.4,
+    "categories": [
+      "cooperative",
+      "strategy",
+      "thematic"
+    ],
+    "moods": [
+      "cooperative",
+      "strategic"
+    ],
+    "bgg_id": 30549,
+    "bgg_rating": 7.6,
+    "favorite": false,
+    "instructions_en": "https://www.dicebreaker.com/games/pandemic/how-to/how-to-play-pandemic-board-game",
+    "instructions_es": "https://cdn.svc.asmodee.net/production-asmodeees/uploads/2023/06/ZM7101ES_Pandemic_Rules_AMS.pdf",
+    "video_en": "https://www.youtube.com/watch?v=ojkScPkdgsk",
+    "video_es": "https://www.youtube.com/watch?v=y5Bg87qeGlY",
+    "created_at": "2026-08-30T01:52:28Z"
+  },
+  {
+    "id": 26,
+    "name": "Patchwork",
+    "description": "A cozy 2-player puzzle game about quilting. Take turns selecting patches from a shared market and fitting them onto your personal quilt board.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0FPXTLZ21.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 2,
+    "min_playtime": 15,
+    "max_playtime": 30,
+    "complexity": 1.6,
+    "categories": [
+      "abstract",
+      "strategy"
+    ],
+    "moods": [
+      "chill",
+      "strategic"
+    ],
+    "bgg_id": 163412,
+    "bgg_rating": 7.8,
+    "favorite": false,
+    "instructions_en": "https://discoverboardgames.com/how-to-play-patchwork-2-player-board-game/",
+    "instructions_es": "https://www.turolgames.com/juegos-mesa-rol-miniaturas/patchwork-juego-de-mesa-facil/",
+    "video_en": "https://www.youtube.com/watch?v=k-NVaMt1o60",
+    "created_at": "2026-08-30T03:53:59Z"
+  },
+  {
+    "id": 72,
+    "name": "Peek & Push",
+    "description": "A game of memory and coordination where players must remember and push the correct colored buttons.",
+    "image_url": "https://stellarfactory.com/cdn/shop/products/peek-push-front_1800x1800_3e736605-8fc3-41c3-adcc-c9b005d598c0.jpg?v=1631236839",
+    "min_players": 1,
+    "max_players": 4,
+    "min_playtime": 10,
+    "max_playtime": 20,
+    "complexity": 1.2,
+    "categories": [
+      "dexterity",
+      "family",
+      "puzzle"
+    ],
+    "moods": [
+      "chill",
+      "social",
+      "focused"
+    ],
+    "favorite": false,
+    "instructions_en": "https://gamerules.com/rules/peek-and-push/",
+    "instructions_es": "https://gamerules.com/rules/peek-and-push/",
+    "video_en": "https://stellarfactory.com/pages/how-to-play-video-peek-push",
+    "video_es": "https://stellarfactory.com/pages/how-to-play-video-peek-push",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 65,
+    "name": "Photosynthesis",
+    "description": "A beautiful strategy game about growing trees in a forest, competing for sunlight as the sun revolves around the board.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B074K5W5N5.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 30,
+    "max_playtime": 60,
+    "complexity": 2.3,
+    "categories": [
+      "strategy",
+      "abstract"
+    ],
+    "moods": [
+      "focused",
+      "chill"
+    ],
+    "bgg_id": 218603,
+    "bgg_rating": 7,
+    "favorite": false,
+    "instructions_en": "https://www.ultraboardgames.com/photosynthesis/game-rules.php",
+    "instructions_es": "https://www.blueorangegames.com/administrator/components/com_bogames/files/rules/0d34bfea9b65afb5e81a3fc5ef1adf80-Photosynthesis-Rules-US-v2-1.pdf",
+    "video_en": "https://www.youtube.com/watch?v=a84AJ5ht_ng",
+    "video_es": "https://www.youtube.com/watch?v=vR0TIW89ORg",
+    "created_at": "2026-08-30T16:22:02Z"
+  },
+  {
+    "id": 98,
+    "name": "Qwirkle",
+    "description": "Abstract tile-laying game where you build lines using matching colors or shapes. Score big by completing a line of six unique tiles for a Qwirkle! Combines the logic of Set with Scrabble-style multiplayer strategy.",
+    "image_url": "https://www.books-by-isbn.com/spix/na-1933054395---Mindware---51xPHxXIuTL.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 30,
+    "max_playtime": 45,
+    "complexity": 1.6,
+    "categories": [
+      "abstract",
+      "family",
+      "tile-placement",
+      "pattern-building"
+    ],
+    "moods": [
+      "chill",
+      "strategic"
+    ],
+    "bgg_id": 25669,
+    "bgg_rating": 6.8,
+    "favorite": false,
+    "created_at": "2026-08-30T17:12:38Z"
+  },
+  {
+    "id": 34,
+    "name": "Rick and Morty Card Scramble",
+    "description": "A Rick and Morty themed card scramble board game. Race to match cards and complete objectives in this fast-paced licensed party game.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B09NZT2CK5.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 20,
+    "max_playtime": 30,
+    "complexity": 1.3,
+    "categories": [
+      "party",
+      "card-game",
+      "family"
+    ],
+    "moods": [
+      "party",
+      "social",
+      "chill"
+    ],
+    "favorite": false,
+    "instructions_en": "https://www.amazon.com/AQUARIUS-Rick-Morty-Scramble-Board/dp/B09NZT2CK5",
+    "created_at": "2026-08-30T03:55:23Z"
+  },
+  {
+    "id": 25,
+    "name": "Riftforce",
+    "description": "A competitive 2-player elemental duel with asymmetric factions. Draft elementals, deploy them to locations along the Rift, and use tactical combos to outmaneuver your opponent.",
+    "image_url": "https://m.media-amazon.com/images/I/71ALQ8oHUVL._AC_SL500_.jpg",
+    "min_players": 2,
+    "max_players": 2,
+    "min_playtime": 30,
+    "max_playtime": 45,
+    "complexity": 2.2,
+    "categories": [
+      "strategy",
+      "card-game"
+    ],
+    "moods": [
+      "competitive",
+      "strategic",
+      "intense"
+    ],
+    "bgg_id": 291859,
+    "bgg_rating": 7.2,
+    "favorite": false,
+    "instructions_en": "https://cdn.1j1ju.com/medias/65/bc/da-riftforce-rulebook.pdf",
+    "instructions_es": "https://misutmeeple.com/2021/04/resena-riftforce/",
+    "video_en": "https://www.youtube.com/watch?v=duo6roqFhmY",
+    "created_at": "2026-08-30T03:53:29Z"
+  },
+  {
+    "id": 91,
+    "name": "Ringer",
+    "description": "A strategy game by MindWare where players try to center rings on the board to score points and block opponents.",
+    "image_url": "https://m.media-amazon.com/images/I/818y7oK5RVL._AC_SL1500_.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 15,
+    "max_playtime": 25,
+    "complexity": 1.5,
+    "categories": [
+      "abstract",
+      "strategy",
+      "family"
+    ],
+    "moods": [
+      "focused",
+      "competitive",
+      "chill"
+    ],
+    "favorite": false,
+    "instructions_en": "https://www.ringersgame.com/how-to-play",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 93,
+    "name": "Roll for the Galaxy",
+    "description": "A dice game of building space empires. Roll your dice to determine available actions then develop technologies and settle worlds.",
+    "image_url": "https://www.riograndegames.com/wp-content/uploads/2013/02/RollftG_box_3d-1.png",
+    "min_players": 2,
+    "max_players": 5,
+    "min_playtime": 30,
+    "max_playtime": 45,
+    "complexity": 2.8,
+    "categories": [
+      "dice",
+      "strategy"
+    ],
+    "moods": [
+      "focused",
+      "competitive"
+    ],
+    "bgg_id": 132531,
+    "bgg_rating": 7.7,
+    "favorite": false,
+    "instructions_en": "https://www.riograndegames.com/wp-content/uploads/2013/02/Roll-for-the-Galaxy-Rules.pdf",
+    "instructions_es": "https://es.boardgamearena.com/gamepanel?game=rollforthegalaxy",
+    "video_en": "https://www.youtube.com/watch?v=AJTB9rkQqi0",
+    "video_es": "https://www.youtube.com/watch?v=c04wIYIf-m8",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 107,
+    "name": "Row Your Goat",
+    "description": "A rapid-fire picture-matching, fast-slapping game. Play cards into a grid and watch for 3 in a row. When you spot a match, slap the nearest lifesaver — there is always one fewer than players. Last card? Scream ROW MY GOAT and slap to win!",
+    "image_url": "https://www.explodingkittens.com/cdn/shop/files/01RYG-SMAngled.png?v=1753393504",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 10,
+    "max_playtime": 10,
+    "complexity": 1,
+    "categories": [
+      "card-game",
+      "party"
+    ],
+    "moods": [
+      "party",
+      "competitive",
+      "intense"
+    ],
+    "bgg_rating": 6.8,
+    "favorite": false,
+    "created_at": "2026-08-30T23:29:36Z"
+  },
+  {
+    "id": 86,
+    "name": "Rubik's Race",
+    "description": "A fast-paced puzzle race for two players. Shake the scrambler, then slide tiles to match the pattern first.",
+    "image_url": "https://cdn11.bigcommerce.com/s-9im8f1/images/stencil/1280x1280/products/12495/18713/RubiksRace__11100.1667867284.jpg?c=2",
+    "min_players": 2,
+    "max_players": 2,
+    "min_playtime": 5,
+    "max_playtime": 15,
+    "complexity": 1.3,
+    "categories": [
+      "puzzle",
+      "dexterity"
+    ],
+    "moods": [
+      "competitive",
+      "focused"
+    ],
+    "bgg_id": 27232,
+    "bgg_rating": 5.9,
+    "favorite": false,
+    "instructions_en": "https://www.ultraboardgames.com/rubiks-cube/rubiks-race-game-rules.php",
+    "instructions_es": "https://timbitoys.com/juego-de-mesa/rubiks-race-de-goliath/",
+    "video_en": "https://www.youtube.com/watch?v=CyjiHwE5zDU",
+    "video_es": "https://www.youtube.com/watch?v=I1c9RwJNFvM",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 24,
+    "name": "Rummikub",
+    "description": "The original rummy tile game. Arrange numbered tiles into runs and groups, strategically rearranging the board to be the first to play all your tiles.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00000IZJB.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 30,
+    "max_playtime": 60,
+    "complexity": 1.7,
+    "categories": [
+      "family",
+      "abstract",
+      "set-collection"
+    ],
+    "moods": [
+      "chill",
+      "social",
+      "competitive"
+    ],
+    "bgg_id": 811,
+    "bgg_rating": 6.4,
+    "favorite": false,
+    "instructions_en": "https://rummikub.com/wp-content/uploads/2019/12/2600-English-1.pdf",
+    "instructions_es": "https://es.wikihow.com/jugar-Rummikub",
+    "video_en": "https://www.youtube.com/watch?v=JWa0F7EM5p8",
+    "created_at": "2026-08-30T03:53:29Z"
+  },
+  {
+    "id": 22,
+    "name": "Sequence",
+    "description": "Play a card from your hand, place a chip on a corresponding space on the board. When you have five in a row, it is a SEQUENCE. The original strategy board game combining cards and chips.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00000IVAK.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 12,
+    "min_playtime": 30,
+    "max_playtime": 60,
+    "complexity": 1.5,
+    "categories": [
+      "strategy",
+      "family",
+      "card-game"
+    ],
+    "moods": [
+      "competitive",
+      "social",
+      "chill"
+    ],
+    "bgg_id": 2375,
+    "bgg_rating": 6,
+    "favorite": false,
+    "instructions_en": "https://cdn.1j1ju.com/medias/a9/0f/d2-sequence-rulebook.pdf",
+    "instructions_es": "https://www.zapperdj.net/wp-content/uploads/2025/02/Reglas-Sequence.pdf",
+    "video_en": "https://www.youtube.com/watch?v=RK8defbdNEA",
+    "created_at": "2026-08-30T03:53:29Z"
+  },
+  {
+    "id": 79,
+    "name": "Sheriff of Nottingham",
+    "description": "A bluffing and negotiation game where merchants try to sneak contraband past the Sheriff at the city gates.",
+    "image_url": "https://valkyriegames.co.nz/cdn/shop/files/shf004_1_1024x1024.jpg?v=1743492215",
+    "min_players": 3,
+    "max_players": 5,
+    "min_playtime": 45,
+    "max_playtime": 60,
+    "complexity": 1.7,
+    "categories": [
+      "bluffing",
+      "party",
+      "strategy"
+    ],
+    "moods": [
+      "social",
+      "competitive",
+      "silly"
+    ],
+    "bgg_id": 157969,
+    "bgg_rating": 7,
+    "favorite": false,
+    "instructions_en": "https://groupgames101.com/sheriff-of-nottingham-rules/",
+    "instructions_es": "https://anyflip.com/xhrxy/hqnv/basic",
+    "video_en": "https://www.youtube.com/watch?v=ofZS29XArzM",
+    "video_es": "https://www.youtube.com/watch?v=ofZS29XArzM",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 84,
+    "name": "Skippity",
+    "description": "A jumping and stacking abstract strategy game by MindWare. Capture pieces by jumping over them and stack to win.",
+    "image_url": "https://cdn11.bigcommerce.com/s-5kcaxd50lw/images/stencil/608x608/products/396368/6740430/9516945cbeee094d19c1aba9de729808fba6d90f938df480905a4cebb1d3649c__17081.1606163078.jpg?c=2",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 15,
+    "max_playtime": 30,
+    "complexity": 1.5,
+    "categories": [
+      "abstract",
+      "family"
+    ],
+    "moods": [
+      "focused",
+      "competitive",
+      "chill"
+    ],
+    "bgg_id": 22348,
+    "bgg_rating": 6.2,
+    "favorite": false,
+    "instructions_en": "https://www.geekyhobbies.com/skippity-rules/",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 103,
+    "name": "Snailed It!",
+    "description": "Yell it, shell it, avoid it to win it! Place cards in rows and try not to leave big gaps — or other players will shout SNAILED IT and throw penalty cards your way. Based on the hit game Cabanga!",
+    "image_url": "https://www.hasbro.com/common/productimages/en_US/BF899FA36BAE45379B8298AAE64F9417/8C2FDFD80D7C4A43964F136284EA7E9C.jpg",
+    "min_players": 3,
+    "max_players": 6,
+    "min_playtime": 20,
+    "max_playtime": 20,
+    "complexity": 1.1,
+    "categories": [
+      "card-game",
+      "family",
+      "party"
+    ],
+    "moods": [
+      "party",
+      "social",
+      "competitive"
+    ],
+    "bgg_id": 394889,
+    "bgg_rating": 6.9,
+    "favorite": false,
+    "created_at": "2026-08-30T23:29:35Z"
+  },
+  {
+    "id": 10,
+    "name": "Splendor",
+    "description": "Collect gem tokens to purchase development cards and attract nobles. A sleek engine-building game of chip-collecting and card development.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00IZEUFIA.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 30,
+    "max_playtime": 30,
+    "complexity": 1.8,
+    "categories": [
+      "strategy",
+      "engine-building",
+      "family"
+    ],
+    "moods": [
+      "chill",
+      "strategic"
+    ],
+    "bgg_id": 148228,
+    "bgg_rating": 7.4,
+    "favorite": false,
+    "instructions_en": "https://www.dicebreaker.com/games/splendor/how-to/how-to-play-splendor-board-game",
+    "instructions_es": "https://cdn.svc.asmodee.net/production-unboxnowcom/uploads/sites/19/2022/05/es_rules_splendor.pdf",
+    "video_en": "https://www.youtube.com/watch?v=ZvyTss8qCYo",
+    "created_at": "2026-08-30T01:52:28Z"
+  },
+  {
+    "id": 88,
+    "name": "Spot It!",
+    "description": "A fast-paced visual perception card game. Find the matching symbol between any two cards - there is always exactly one.",
+    "image_url": "https://m.media-amazon.com/images/I/71Pb5-Ug8uL._AC_SL1500_.jpg",
+    "min_players": 2,
+    "max_players": 8,
+    "min_playtime": 10,
+    "max_playtime": 15,
+    "complexity": 1,
+    "categories": [
+      "card",
+      "party",
+      "family"
+    ],
+    "moods": [
+      "social",
+      "silly",
+      "competitive"
+    ],
+    "bgg_id": 63268,
+    "bgg_rating": 6.6,
+    "favorite": false,
+    "instructions_en": "https://www.ultraboardgames.com/spot-it/mini-games.php",
+    "instructions_es": "https://cdn.svc.asmodee.net/production-asmodeees/uploads/2023/06/dobb01es_rules_lr.pdf",
+    "video_en": "https://www.youtube.com/watch?v=VTDKqW_GLkw",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 77,
+    "name": "Star Trek Fluxx",
+    "description": "The ever-changing card game set in the Star Trek universe. Rules and goals change as you play.",
+    "image_url": "https://www.looneylabs.com/sites/default/files/styles/large/public/marketing_images/StarTrekTOSFluxx_Boxtop.jpg",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 10,
+    "max_playtime": 40,
+    "complexity": 1.5,
+    "categories": [
+      "card",
+      "party"
+    ],
+    "moods": [
+      "social",
+      "silly",
+      "chill"
+    ],
+    "bgg_id": 182637,
+    "bgg_rating": 6.6,
+    "favorite": false,
+    "instructions_en": "https://thegamerules.com/rulebooks/Star-Trek-Flux-Rulebook-en.pdf",
+    "instructions_es": "https://thegamerules.com/rulebooks/Star-Trek-Flux-Rulebook-en.pdf",
+    "video_en": "https://www.youtube.com/watch?v=oj6C1CBXPvc",
+    "video_es": "https://www.youtube.com/watch?v=oj6C1CBXPvc",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 62,
+    "name": "Survivor",
+    "description": "Based on the hit TV show. Outwit, outplay, outlast your opponents in this social strategy party game.",
+    "image_url": "https://i.ebayimg.com/images/g/gkIAAOSwGQJhNVDm/s-l1600.jpg",
+    "min_players": 3,
+    "max_players": 6,
+    "min_playtime": 30,
+    "max_playtime": 60,
+    "complexity": 1.5,
+    "categories": [
+      "party",
+      "social-deduction"
+    ],
+    "moods": [
+      "competitive",
+      "social",
+      "intense"
+    ],
+    "favorite": false,
+    "instructions_en": "https://www.explodingkittens.com/pages/how-to-play-survivor",
+    "video_en": "https://www.youtube.com/watch?v=bi_e92dcqhc",
+    "created_at": "2026-08-30T16:22:02Z"
+  },
+  {
+    "id": 83,
+    "name": "Tangram Bits",
+    "description": "A classic tangram puzzle set with geometric pieces that must be arranged to form various shapes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Tangram_set_00.jpg",
+    "min_players": 1,
+    "max_players": 2,
+    "min_playtime": 5,
+    "max_playtime": 30,
+    "complexity": 1.5,
+    "categories": [
+      "puzzle",
+      "solo"
+    ],
+    "moods": [
+      "focused",
+      "chill"
+    ],
+    "favorite": false,
+    "instructions_en": "https://www.game-2-play.com/puzzle-games/tangrams/",
+    "video_en": "https://www.youtube.com/watch?v=p3avPxYb3wU",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 32,
+    "name": "Tapple",
+    "description": "Fast-paced word game with a ticking timer. Pick a category, tap a letter, and shout a word before time runs out. Letters get eliminated each round.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00BBLI5CC.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 8,
+    "min_playtime": 10,
+    "max_playtime": 20,
+    "complexity": 1,
+    "categories": [
+      "party",
+      "word-game",
+      "family"
+    ],
+    "moods": [
+      "party",
+      "social"
+    ],
+    "bgg_id": 137964,
+    "bgg_rating": 6.3,
+    "favorite": false,
+    "instructions_en": "https://www.buffalolib.org/sites/default/files/gaming-unplugged/inst/71%20Tapple%20Instructions.pdf",
+    "video_en": "https://www.youtube.com/watch?v=wSiRGdWLuIQ",
+    "created_at": "2026-08-30T03:54:52Z"
+  },
+  {
+    "id": 30,
+    "name": "Telestrations After Dark",
+    "description": "The adults-only version of the telephone-meets-sketching party game. Draw what you see, guess what was drawn, and laugh at how hilariously wrong it goes.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00V42YPKO.01.LZZZZZZZ.jpg",
+    "min_players": 4,
+    "max_players": 8,
+    "min_playtime": 30,
+    "max_playtime": 30,
+    "complexity": 1,
+    "categories": [
+      "party",
+      "drawing"
+    ],
+    "moods": [
+      "party",
+      "social",
+      "creative"
+    ],
+    "bgg_id": 137681,
+    "bgg_rating": 7.2,
+    "favorite": false,
+    "instructions_en": "https://www.ultraboardgames.com/telestrations/after-dark.php",
+    "video_en": "https://www.youtube.com/watch?v=yaQAUSlyemg",
+    "created_at": "2026-08-30T03:54:27Z"
+  },
+  {
+    "id": 73,
+    "name": "The Mind",
+    "description": "A cooperative card game where players must play cards in ascending order without communicating. Become one mind.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0916/9970/8282/files/2018-06-18175310-The-Mind-Card-Game-Review-upc-lc.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 15,
+    "max_playtime": 20,
+    "complexity": 1.1,
+    "categories": [
+      "cooperative",
+      "card"
+    ],
+    "moods": [
+      "cooperative",
+      "focused",
+      "intense"
+    ],
+    "bgg_id": 244992,
+    "bgg_rating": 7,
+    "favorite": false,
+    "instructions_en": "https://happypiranha.com/blogs/board-game-rules/how-to-play-the-mind-board-game-rules-instructions",
+    "instructions_es": "https://www.nsv.de/wp-content/uploads/2024/04/TheMind_ES.pdf",
+    "video_en": "https://www.youtube.com/watch?v=kmey0qU1yow",
+    "video_es": "https://www.youtube.com/watch?v=kmey0qU1yow",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 21,
+    "name": "The Sims Board Game",
+    "description": "Bring the world of The Sims to life! Craft your story, meet iconic Sims, fulfill aspirations, and collect matching SIMbols. Every game is a new story with unexpected surprises.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0DVSN2Y3S.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 5,
+    "min_playtime": 45,
+    "max_playtime": 90,
+    "complexity": 2,
+    "categories": [
+      "strategy",
+      "family",
+      "storytelling"
+    ],
+    "moods": [
+      "social",
+      "creative",
+      "chill",
+      "party"
+    ],
+    "favorite": false,
+    "instructions_en": "https://www.goliathgames.us/wp-content/uploads/2025/12/933864.0-10-v25-2504_Sims_IM_Layout-compressed.pdf",
+    "video_en": "https://www.youtube.com/watch?v=li9ifeuh3bs",
+    "created_at": "2026-08-30T03:53:03Z"
+  },
+  {
+    "id": 68,
+    "name": "Throw Throw Avocado",
+    "description": "A dodgeball card game from the creators of Exploding Kittens. Collect matching sets while dodging squishy avocados thrown at you.",
+    "image_url": "https://elementgames.co.uk/images/products/81811/100274-large.jpg",
+    "min_players": 2,
+    "max_players": 6,
+    "min_playtime": 15,
+    "max_playtime": 30,
+    "complexity": 1.1,
+    "categories": [
+      "party",
+      "card",
+      "dexterity"
+    ],
+    "moods": [
+      "silly",
+      "social",
+      "competitive"
+    ],
+    "bgg_id": 300832,
+    "bgg_rating": 5.8,
+    "favorite": false,
+    "instructions_en": "https://www.explodingkittens.com/pages/rules-throw-throw-avocado",
+    "instructions_es": "https://officialgamerules.org/game-rules/throw-throw-avocado/",
+    "video_en": "https://www.youtube.com/watch?v=zsmMkkJLsdo",
+    "video_es": "https://www.youtube.com/watch?v=zsmMkkJLsdo",
+    "created_at": "2026-08-30T16:22:02Z"
+  },
+  {
+    "id": 3,
+    "name": "Ticket to Ride",
+    "description": "Collect cards of various train types to claim railway routes across North America. Longer routes earn more points but risk not completing your destination tickets.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0975277324.01.LZZZZZZZ.jpg",
+    "min_players": 2,
+    "max_players": 5,
+    "min_playtime": 30,
+    "max_playtime": 60,
+    "complexity": 1.9,
+    "categories": [
+      "family",
+      "strategy"
+    ],
+    "moods": [
+      "chill",
+      "strategic"
+    ],
+    "bgg_id": 9209,
+    "bgg_rating": 7.4,
+    "favorite": false,
+    "instructions_en": "https://cdn.svc.asmodee.net/production-daysofwonder/uploads/2024/07/7201-T2R-Rules-EN-20240423_LOWRES.pdf",
+    "instructions_es": "https://cdn.svc.asmodee.net/production-daysofwonder/uploads/2024/07/7281-T2R-Rules-ES-2018.pdf",
+    "video_en": "https://www.youtube.com/watch?v=SUmHqvrI4q0",
+    "video_es": "https://www.youtube.com/watch?v=VkFMRwT_tk8",
+    "created_at": "2026-08-30T01:52:28Z"
+  },
+  {
+    "id": 80,
+    "name": "Ticket to Ride: Europe",
+    "description": "Build train routes across Europe in this classic route-building board game. Includes tunnels, ferries, and stations.",
+    "image_url": "https://m.media-amazon.com/images/I/9141wCzh4FL._AC_SL1500_.jpg",
+    "min_players": 2,
+    "max_players": 5,
+    "min_playtime": 30,
+    "max_playtime": 60,
+    "complexity": 2,
+    "categories": [
+      "strategy",
+      "family"
+    ],
+    "moods": [
+      "focused",
+      "competitive",
+      "chill"
+    ],
+    "bgg_id": 14996,
+    "bgg_rating": 7.5,
+    "favorite": false,
+    "instructions_en": "https://hexagamers.com/ticket-to-ride-europe-rules-pdf/",
+    "instructions_es": "https://cdn.svc.asmodee.net/production-unboxnowcom/uploads/sites/19/2022/05/7282-t2re-rules-es-2019.pdf",
+    "video_en": "https://www.youtube.com/watch?v=sP4cEemA8L8",
+    "video_es": "https://www.youtube.com/watch?v=VkFMRwT_tk8",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 85,
+    "name": "Triangle Takeover",
+    "description": "A strategic territory control game played on a triangular grid. Claim triangles to dominate the board.",
+    "image_url": "https://relatable.com/cdn/shop/files/TriangleTakeover_Product-OnGray-1200x1200_05.jpg",
+    "min_players": 2,
+    "max_players": 4,
+    "min_playtime": 10,
+    "max_playtime": 20,
+    "complexity": 1.5,
+    "categories": [
+      "abstract",
+      "strategy"
+    ],
+    "moods": [
+      "focused",
+      "competitive"
+    ],
+    "favorite": false,
+    "instructions_en": "https://learningposttoys.com/products/249328-triangle-takeover",
+    "created_at": "2026-08-30T16:22:04Z"
+  },
+  {
+    "id": 69,
+    "name": "UNO",
+    "description": "The classic card game of matching colors and numbers. Use action cards like Skip, Reverse, and Draw Two to change the game.",
+    "image_url": "https://target.scene7.com/is/image/Target/GUEST_fec215a0-a213-4856-82d7-0e3110880d6e?wid=800&hei=800&qlt=80&fmt=pjpeg",
+    "min_players": 2,
+    "max_players": 10,
+    "min_playtime": 15,
+    "max_playtime": 30,
+    "complexity": 1.1,
+    "categories": [
+      "card",
+      "family",
+      "party"
+    ],
+    "moods": [
+      "social",
+      "chill",
+      "silly"
+    ],
+    "bgg_id": 2223,
+    "bgg_rating": 5.5,
+    "favorite": false,
+    "instructions_en": "https://service.mattel.com/instruction_sheets/M1006.pdf",
+    "instructions_es": "https://unorules.net/es/",
+    "video_en": "https://www.youtube.com/watch?v=_v8mnDQw-Uc",
+    "video_es": "https://www.youtube.com/watch?v=DQzOvL87vss",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 96,
+    "name": "UNO Go!",
+    "description": "A travel-sized version of UNO, perfect for on-the-go play with all the classic UNO card action.",
+    "image_url": "https://m.media-amazon.com/images/I/719BUyW9qDL._AC_SL1500_.jpg",
+    "min_players": 2,
+    "max_players": 10,
+    "min_playtime": 10,
+    "max_playtime": 20,
+    "complexity": 1,
+    "categories": [
+      "card",
+      "family",
+      "travel"
+    ],
+    "moods": [
+      "social",
+      "chill",
+      "silly"
+    ],
+    "bgg_id": 2223,
+    "bgg_rating": 5.5,
+    "favorite": false,
+    "instructions_en": "https://service.mattel.com/instruction_sheets/HGL63-Eng.pdf",
+    "instructions_es": "https://www.playiro.com/es/juegos-de-cartas/reglas-del-uno",
+    "video_en": "https://www.youtube.com/watch?v=_v8mnDQw-Uc",
+    "video_es": "https://www.youtube.com/watch?v=DQzOvL87vss",
+    "created_at": "2026-08-30T16:22:05Z"
+  },
+  {
+    "id": 64,
+    "name": "Ubongo",
+    "description": "A fast-paced geometric puzzle game where players race to fit puzzle pieces into their boards before time runs out.",
+    "image_url": "https://www.thamesandkosmos.co.uk/wp-content/uploads/2020/04/696184_ubongo_3DBox.jpg",
+    "min_players": 1,
+    "max_players": 4,
+    "min_playtime": 20,
+    "max_playtime": 30,
+    "complexity": 1.7,
+    "categories": [
+      "puzzle",
+      "family"
+    ],
+    "moods": [
+      "competitive",
+      "focused"
+    ],
+    "bgg_id": 16986,
+    "bgg_rating": 7,
+    "favorite": false,
+    "instructions_en": "https://www.ultraboardgames.com/ubongo/game-rules.php",
+    "instructions_es": "https://zacatrus.es/media/instrucciones/Reglamento_Zacatrus_ubongo.pdf",
+    "video_en": "https://www.youtube.com/watch?v=L-j2Kh-PbBE",
+    "created_at": "2026-08-30T16:22:02Z"
+  },
+  {
+    "id": 78,
+    "name": "Word Slam",
+    "description": "A team-based word-guessing game where clue-givers can only use single-word hint cards to get their team to guess the answer.",
+    "image_url": "https://gongaii.com/cdn/shop/products/Word_Slam.jpg?crop=center&height=1200&v=1759439398&width=1200",
+    "min_players": 3,
+    "max_players": 99,
+    "min_playtime": 30,
+    "max_playtime": 45,
+    "complexity": 1.3,
+    "categories": [
+      "party",
+      "word"
+    ],
+    "moods": [
+      "social",
+      "silly",
+      "competitive"
+    ],
+    "bgg_id": 217986,
+    "bgg_rating": 7.3,
+    "favorite": false,
+    "instructions_en": "https://www.ultraboardgames.com/word-slam/game-rules.php",
+    "instructions_es": "https://www.ultraboardgames.com/word-slam/game-rules.php",
+    "video_en": "",
+    "video_es": "",
+    "created_at": "2026-08-30T16:22:03Z"
+  },
+  {
+    "id": 102,
+    "name": "Yahtzee",
+    "description": "The classic shake, score, and shout dice game. Roll five dice up to three times per turn to make combos like straights, full houses, and the coveted five-of-a-kind Yahtzee. Risk it all or play it safe!",
+    "image_url": "https://www.hasbro.com/common/productimages/en_US/7EB4EDD550569047F52E237ED5776E50/d4ebb073631dcd7db2e7f03417b467d837cecc95.jpg",
+    "min_players": 2,
+    "max_players": 10,
+    "min_playtime": 30,
+    "max_playtime": 30,
+    "complexity": 1.2,
+    "categories": [
+      "family"
+    ],
+    "moods": [
+      "chill",
+      "social"
+    ],
+    "bgg_id": 2243,
+    "bgg_rating": 5.6,
+    "favorite": false,
+    "created_at": "2026-08-30T23:29:35Z"
+  }
+]
